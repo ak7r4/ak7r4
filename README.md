@@ -2,10 +2,14 @@
 
 <br>
 
-### Hello, my name is Kauan Akyra. 
-### I am a cyber security enthusiast. 
-### I currently work in pentesting at a cybersecurity company.  
-### I practice Brazilian Jiu-Jitsu, have a degree in computer networks, and I'm a CTF player.
+## Hi, I'm **Kauan Akyra**
+
+I'm a passionate **cyber security enthusiast** with a knack for solving complex challenges.
+I specialize in **pentesting** and work with a talented team at a leading **cybersecurity consulting firm**.
+
+When I'm not securing systems, you can find me on the **mat** practicing **Brazilian Jiu-Jitsu**, or diving deep into **CTF competitions** to sharpen my skills. 🥋
+With a degree in **computer networks**, I'm always eager to learn, grow, and tackle the next big security problem.
+
 
 <br>
 
