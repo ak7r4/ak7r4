@@ -24,9 +24,9 @@ When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or div
 
 <div align="center">
   
-[HackTheBox](https://app.hackthebox.com/profile/2086251)  
-[TryHackMe](https://tryhackme.com/p/ak7r4)  
-[Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)  
+[HackTheBox](https://app.hackthebox.com/profile/2086251)\ \ 
+[TryHackMe](https://tryhackme.com/p/ak7r4)
+[Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
 [Medium](https://medium.com/@kauanakyra)
 </div>
 <!--
