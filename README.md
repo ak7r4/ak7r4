@@ -1,7 +1,8 @@
 # Trying to learn as many things as possible before I go crazy
 
 <br>
-
+### Hello, my name is Kauan Akyra. I'm a cyber security enthusiast. I currently work in pentesting at a consulting company.  
+I practice Brazilian Jiu-Jitsu, have a degree in computer networks, and I'm a CTF player.
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
