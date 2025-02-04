@@ -2,8 +2,8 @@
 
 ## Hi, I'm **Kauan Akyra**
 
-I'm a passionate **cyber security enthusiast** with a knack for solving complex challenges.
-I specialize in **pentesting** and work with a talented team at a leading **cybersecurity consulting firm**.
+I'm a **cyber security enthusiast** with a knack for solving complex challenges.
+I currently work in **pentesting** at a cybersecurity company.  
 
 When I'm not securing systems, you can find me on the **mat** practicing **Brazilian Jiu-Jitsu**, or diving deep into **CTF competitions** to sharpen my skills. 🥋
 With a degree in **computer networks**, I'm always eager to learn, grow, and tackle the next big security problem.
