@@ -1,6 +1,7 @@
-## Hi there 👋
+## Another one got caught today, it's all over the papers
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Bash](https://img.shields.io/badge/Bash-5.1-4EAA25)
 ![Go](https://img.shields.io/badge/Go-1.18-00ADD8)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
