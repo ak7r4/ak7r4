@@ -11,13 +11,15 @@ With a degree in **computer networks**.
 <br>
 
 Some languages that I am trying to learn:
-
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.1-4EAA25)
 ![Go](https://img.shields.io/badge/Go-1.18-00ADD8)
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6)
+</div>
 
 ### 📫 How to reach me: <br>
 <div align="center">
