@@ -23,9 +23,9 @@ When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or div
 ## 📫 How to reach me: <br>
 
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kauan-akyra-477211177/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kauan-akyra-477211177/">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@kauanakyra">Medium</a>
 </div>
 
