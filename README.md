@@ -8,12 +8,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6)
 
-📫 How to reach me: <br>
+### 📫 How to reach me: <br>
 [HackTheBox](https://app.hackthebox.com/profile/2086251)
 <br>
 [TryHackMe](https://tryhackme.com/p/ak7r4)
 <br>
 [Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
+<br>
 <br>
 <!--
 **ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
