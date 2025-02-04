@@ -30,7 +30,7 @@ With a degree in **computer networks**.
       <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>
     </div>
   
-    <div style="text-align: center;">
+  <div style="text-align: center;">
       <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="THM Logo" width="100px">
       <br>
       <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>
