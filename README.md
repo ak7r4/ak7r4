@@ -23,7 +23,8 @@ Some languages that I am trying to learn:
 <div align="center">
   
   ![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)  
-  [HackTheBox Profile](https://app.hackthebox.com/profile/2086251)
+  [HackTheBox](https://app.hackthebox.com/profile/2086251)
+
 </div>
 
 <br>
