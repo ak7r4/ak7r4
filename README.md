@@ -23,11 +23,10 @@ When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or div
 ## 📫 How to reach me: <br>
 
 <div align="center">
-  
-[HackTheBox](https://app.hackthebox.com/profile/2086251)\ \ 
-[TryHackMe](https://tryhackme.com/p/ak7r4)
-[Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
-[Medium](https://medium.com/@kauanakyra)
+  <a href="https://app.hackthebox.com/profile/2086251" style="margin: 0 15px;">HackTheBox</a>
+  <a href="https://tryhackme.com/p/ak7r4" style="margin: 0 15px;">TryHackMe</a>
+  <a href="https://www.linkedin.com/in/kauan-akyra-477211177/" style="margin: 0 15px;">LinkedIn</a>
+  <a href="https://medium.com/@kauanakyra" style="margin: 0 15px;">Medium</a>
 </div>
 <!--
 **ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
