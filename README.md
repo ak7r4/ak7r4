@@ -27,10 +27,11 @@ With a degree in **computer networks**.
   ![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)  
   [HackTheBox](https://app.hackthebox.com/profile/2086251)
 
+  ![THM Logo](https://assets.tryhackme.com/img/THMlogo.png)
+  [TryHackMe](https://tryhackme.com/p/ak7r4)
+
 </div>
 
-<br>
-[TryHackMe](https://tryhackme.com/p/ak7r4)
 <br>
 [Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
 <br>
