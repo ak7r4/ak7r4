@@ -10,7 +10,7 @@ With a degree in **computer networks**.
 
 <br>
 
-Some languages that I am trying to learn:
+## Some languages that I am trying to learn:
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
