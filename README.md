@@ -5,7 +5,7 @@
 A **cyber security enthusiast**.
 I currently work in **pentesting** at a cybersecurity company.  
 With a degree in **computer networks**.
-When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or diving into **CTFs** to sharpen my skills.
+When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or diving into **CTFs**
 
 <br>
 
