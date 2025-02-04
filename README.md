@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 
 <!--
 **ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
