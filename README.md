@@ -21,6 +21,8 @@ Some languages that I am trying to learn:
 
 ### 📫 How to reach me: <br>
 ![https://app.hackthebox.com/images/logos/htb_ic2.svg](https://app.hackthebox.com/profile/2086251)
+[![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)]([https://app.hackthebox.com/](https://app.hackthebox.com/profile/2086251)) HackTheBox
+
 <br>
 [TryHackMe](https://tryhackme.com/p/ak7r4)
 <br>
