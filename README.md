@@ -1,5 +1,5 @@
-## Another one got caught today, it's all over the papers
-
+## Trying to learn as many things as possible before I go crazy
+\n
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.1-4EAA25)
 ![Go](https://img.shields.io/badge/Go-1.18-00ADD8)
