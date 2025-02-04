@@ -1,4 +1,7 @@
-## Trying to learn as many things as possible before I go crazy
+# Trying to learn as many things as possible before I go crazy
+
+<br>
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
