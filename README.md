@@ -23,12 +23,19 @@ With a degree in **computer networks**.
 
 ## 📫 How to reach me: <br>
 <div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" alt="HTB Logo" width="100px">
+    <br>
+    <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>
+  </div>
   
-  ![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)  
-  [HackTheBox](https://app.hackthebox.com/profile/2086251)
-  ![THM Logo](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)
-  [TryHackMe](https://tryhackme.com/p/ak7r4)
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="THM Logo" width="100px">
+    <br>
+    <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>
+  </div>
 </div>
+
 
 <br>
 [Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
