@@ -1,7 +1,5 @@
 # Trying to learn as many things as possible before I go crazy
 
-<br>
-
 ## Hi, I'm **Kauan Akyra**
 
 I'm a passionate **cyber security enthusiast** with a knack for solving complex challenges.
