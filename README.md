@@ -20,7 +20,7 @@ Some languages that I am trying to learn:
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6)
 
 ### 📫 How to reach me: <br>
-![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)] [HackTheBox](https://app.hackthebox.com/profile/2086251))
+![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg) [HackTheBox](https://app.hackthebox.com/profile/2086251)
 
 <br>
 [TryHackMe](https://tryhackme.com/p/ak7r4)
