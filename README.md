@@ -29,7 +29,6 @@ With a degree in **computer networks**.
 
   ![THM Logo](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)
   [TryHackMe](https://tryhackme.com/p/ak7r4)
-
 </div>
 
 <br>
