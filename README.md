@@ -13,7 +13,7 @@
 <br>
 [TryHackMe](https://tryhackme.com/p/ak7r4)
 <br>
-[Linkedin])(https://www.linkedin.com/in/kauan-akyra-477211177/)
+[Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
 <br>
 <!--
 **ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
