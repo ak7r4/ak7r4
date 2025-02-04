@@ -23,18 +23,22 @@ With a degree in **computer networks**.
 
 ## 📫 How to reach me: <br>
 <div align="center">
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" alt="HTB Logo" width="100px">
-    <br>
-    <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>
-  </div>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+      <img src="https://app.hackthebox.com/images/logos/htb_ic2.svg" alt="HTB Logo" width="100px">
+      <br>
+      <a href="https://app.hackthebox.com/profile/2086251">HackTheBox</a>
+    </div>
   
-  <div style="display: inline-block; margin: 10px;">
-    <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="THM Logo" width="100px">
-    <br>
-    <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>
+    <div style="text-align: center;">
+      <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="THM Logo" width="100px">
+      <br>
+      <a href="https://tryhackme.com/p/ak7r4">TryHackMe</a>
+    </div>
   </div>
 </div>
+
+
 
 
 <br>
