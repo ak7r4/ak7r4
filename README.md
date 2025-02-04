@@ -23,22 +23,8 @@ When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or div
 ## 📫 How to reach me: <br>
 
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/2086251" style="margin: 0 15px;">HackTheBox</a>
-  <a href="https://tryhackme.com/p/ak7r4" style="margin: 0 15px;">TryHackMe</a>
-  <a href="https://www.linkedin.com/in/kauan-akyra-477211177/" style="margin: 0 15px;">LinkedIn</a>
-  <a href="https://medium.com/@kauanakyra" style="margin: 0 15px;">Medium</a>
+  <a href="https://app.hackthebox.com/profile/2086251" style="margin: 15px;">HackTheBox</a>
+  <a href="https://tryhackme.com/p/ak7r4" style="margin: 15px;">TryHackMe</a>
+  <a href="https://www.linkedin.com/in/kauan-akyra-477211177/" style="margin: 15px;">LinkedIn</a>
+  <a href="https://medium.com/@kauanakyra" style="margin: 15px;">Medium</a>
 </div>
-<!--
-**ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
