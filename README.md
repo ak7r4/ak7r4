@@ -7,6 +7,10 @@
 
 <br>
 
+Some languages that I am trying to learn:
+
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.1-4EAA25)
 ![Go](https://img.shields.io/badge/Go-1.18-00ADD8)
