@@ -27,7 +27,7 @@ With a degree in **computer networks**.
   ![HTB Logo](https://app.hackthebox.com/images/logos/htb_ic2.svg)  
   [HackTheBox](https://app.hackthebox.com/profile/2086251)
 
-  ![THM Logo](https://assets.tryhackme.com/img/THMlogo.png)
+  ![THM Logo](https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg)
   [TryHackMe](https://tryhackme.com/p/ak7r4)
 
 </div>
