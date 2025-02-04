@@ -4,9 +4,8 @@
 
 A **cyber security enthusiast**.
 I currently work in **pentesting** at a cybersecurity company.  
-
-When I'm not securing systems, you can find me practicing **Brazilian Jiu-Jitsu**, or diving deep into **CTFs** to sharpen my skills. 🥋
 With a degree in **computer networks**.
+When I'm not working, you can find me practicing **Brazilian Jiu-Jitsu**, or diving into **CTFs** to sharpen my skills.
 
 <br>
 
@@ -23,14 +22,13 @@ With a degree in **computer networks**.
 
 ## 📫 How to reach me: <br>
 
+<div align="center">
+  
 [HackTheBox](https://app.hackthebox.com/profile/2086251)
-<br>
 [TryHackMe](https://tryhackme.com/p/ak7r4)
-<br>
 [Linkedin](https://www.linkedin.com/in/kauan-akyra-477211177/)
-<br>
 [Medium](https://medium.com/@kauanakyra)
-<br>
+</div>
 <!--
 **ak7r4/ak7r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
