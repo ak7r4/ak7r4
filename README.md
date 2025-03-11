@@ -1,6 +1,4 @@
-# Trying to learn as many things as possible before I go crazy
-
-## Hi, I am **Kauan Akyra**
+# Hi, I am **Kauan Akyra**
 
 A **cyber security enthusiast**.
 I currently work in **pentesting** at a cybersecurity company.  
